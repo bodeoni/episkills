@@ -1,5 +1,7 @@
 # Learn Python for epidemiology
 
+This course is currently in progress. Updates will be posted weekly through ~Dec 2015.
+
 ##Lessons
 
 1. Basic data skills using pandas
