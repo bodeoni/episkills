@@ -1,18 +1,26 @@
 # Learn Python for epidemiology
 
-This course is currently in progress. Updates will be posted weekly through ~Dec 2015.
+This course is currently in progress. Updates will be posted weekly through ~Dec 2015. I plan to develop these materials into something more conducive to self-study, so check back or sign up for the mailing list at www.episkills.com.
+
+##Getting started
+
+I recommend using [Enthought Canopy](https://store.enthought.com/) to install Python. Enthought is free, and works on Windows, Mac and Linux. It does not require administrative rights to install, and is on some lists for approved installation for government employees.
+
+After installation, open Enthought and click on the Package Manager button. Make sure pandas and numpy are installed by searching for them, and clicking install if needed. Then return the welcome screen, and click Editor. From there, go to File -> New -> IPython Notebook. The Notebook relies heavily on keyboard shortcuts. Shift+enter is one you cannot get away without - it executes the code in each cell. [This tutorial](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/03_IPython_intro) can help you learn more.
 
 ##Lessons
 
-1. Basic data skills using pandas
-2. More advanced data skills using pandas
-3. Writing control flows and functions
+1. Basic data skills using pandas: indexing and selection, filtering, cleaning data, basic summary statistics.
+2. More advanced data skills using pandas: stratified analysis, binning ages, pivot tables, comparing data sets.
+3. Writing control flows and functions: for loops, if-then statements, writing functions, dictionaries.
 
 ## Homework
 
-1. Practice by yourself
-2. Congressional age analysis
-3. Generate fake line list
+(More details in the homework folder)
+
+1. Practice by yourself. Apply the skills learned in lesson 1 to your own data. Practice using the ipython notebook.
+2. Congressional age analysis. Analyze a data set with every member of congress and their ages at election.
+3. Generate fake line list. Pretend you are teaching an epidemiology class. Use control flows and functions to prepare to teach.
 
 ## Resources
 
