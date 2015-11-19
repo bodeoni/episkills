@@ -41,4 +41,5 @@ After installation, open Enthought and click on the Package Manager button. Make
 ## License
 
 Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA)
+
 Reuse and distribution -> yes. Commercial reuse -> no. Attribution -> please.
