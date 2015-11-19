@@ -37,3 +37,8 @@ After installation, open Enthought and click on the Package Manager button. Make
 [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) - a book available to purchase by the author of Pandas
 
 [Epipy](http://github.com/cmrivers/epipy) - a Python package for epidemiology analysis. [Documentation](http://cmrivers.github.io/epipy/) is also available.
+
+## License
+
+Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA)
+Reuse and distribution -> yes. Commercial reuse -> no. Attribution -> please.
