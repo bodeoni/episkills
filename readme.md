@@ -14,6 +14,7 @@ After installation, open Enthought and click on the Package Manager button. Make
 2. More advanced data skills using pandas: stratified analysis, binning ages, pivot tables, comparing data sets.
 3. Writing control flows and functions: for loops, if-then statements, writing functions, dictionaries.
 4. Using epipy, a Python package for epidemiology.
+5. Visualization using pandas, seaborn and matplotlib.
 
 ## Homework
 
@@ -23,6 +24,7 @@ After installation, open Enthought and click on the Package Manager button. Make
 2. Congressional age analysis. Analyze a data set with every member of congress and their ages at election.
 3. Generate fake line list. Pretend you are teaching an epidemiology class. Use control flows and functions to prepare to teach.
 4. No really, do homework 3.
+5. Produce the graphics for a report or analysis that you perform regularly.
 
 ## Resources
 
