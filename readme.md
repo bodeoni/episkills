@@ -6,7 +6,7 @@ This course is currently in progress. Updates will be posted weekly through ~Dec
 
 I recommend using [Enthought Canopy](https://store.enthought.com/) to install Python. Enthought is free, and works on Windows, Mac and Linux. It does not require administrative rights to install, and is on some lists for approved installation for government employees.
 
-After installation, open Enthought and click on the Package Manager button. Make sure pandas and numpy are installed by searching for them, and clicking install if needed. Then return the welcome screen, and click Editor. From there, go to File -> New -> IPython Notebook. The Notebook relies heavily on keyboard shortcuts. Shift+enter is one you cannot get away without - it executes the code in each cell. [This tutorial](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/03_IPython_intro) can help you learn more.
+After installation, open Enthought and click on the Package Manager button. Make sure pandas and numpy are installed by searching for them, and clicking install if needed. Then return the welcome screen, and click Editor. From there, go to File -> New -> IPython Notebook. The Notebook relies heavily on keyboard shortcuts. Shift+enter is one you cannot get away without - it executes the code in each cell. [This tutorial](http://nbviewer.ipython.org/github/jakevdp/2014_fall_ASTR599/blob/master/notebooks/03_IPython_intro.ipynb) can help you learn more.
 
 ##Lessons
 
