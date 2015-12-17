@@ -15,6 +15,7 @@ After installation, open Enthought and click on the Package Manager button. Make
 3. Writing control flows and functions: for loops, if-then statements, writing functions, dictionaries.
 4. Using epipy, a Python package for epidemiology.
 5. Visualization using pandas, seaborn and matplotlib.
+6. Automatically generated regular reports.
 
 ## Homework
 
@@ -25,6 +26,7 @@ After installation, open Enthought and click on the Package Manager button. Make
 3. Generate fake line list. Pretend you are teaching an epidemiology class. Use control flows and functions to prepare to teach.
 4. No really, do homework 3.
 5. Produce the graphics for a report or analysis that you perform regularly.
+6. Put the finishing aesthteic touches on homework 5, and add any additional analyses needed. Then distribute!
 
 ## Resources
 
