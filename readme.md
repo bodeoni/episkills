@@ -1,6 +1,6 @@
 # Learn Python for epidemiology
 
-This course is currently in progress. Updates will be posted weekly through ~Dec 2015. I plan to develop these materials into something more conducive to self-study, so check back or sign up for the mailing list at www.episkills.com.
+The lessons posted here are from an in-person course I taught in the fall of 2015. I have developed these materials into something more conducive to self-study at www.episkills.com.
 
 ##Getting started
 
